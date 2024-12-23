@@ -1,5 +1,5 @@
 # Demo
 <br>
-This is my first Git Reop 
+This is my first Git Repo
 <br>
 Made by Tayyab.
