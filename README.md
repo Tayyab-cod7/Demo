@@ -2,4 +2,4 @@
 <br>
 This is my first Git Repo
 <br>
-Made by Tayyab.
+Made by Tayyab
